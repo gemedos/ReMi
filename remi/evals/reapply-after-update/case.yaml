@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: reapply-after-update
+expected_outcome: |
+  Finds the previous session, runs detection and backup into a new session folder, diffs packages to show which removed apps came back, re-applies the previous changes via remi-apply.sh (pushed and run with adb shell sh), and reports results.
+context:
+  scaffold_script: place-files.sh

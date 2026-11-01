@@ -1,0 +1,20 @@
+2026-10-15T18:30 | package | com.miui.msa.global | installed | removed-user0 | Success
+2026-10-15T18:31 | package | com.miui.analytics | installed | removed-user0 | Success
+2026-10-15T18:32 | package | com.miui.daemon | installed | removed-user0 | Success
+2026-10-15T18:33 | package | com.miui.hybrid | installed | removed-user0 | Success
+2026-10-15T18:34 | package | com.mi.globalminusscreen | installed | removed-user0 | Success
+2026-10-15T18:35 | package | com.miui.android.fashiongallery | installed | removed-user0 | Success
+2026-10-15T18:36 | package | com.xiaomi.mipicks | installed | removed-user0 | Success
+2026-10-15T18:37 | package | com.facebook.katana | installed | removed-user0 | Success
+2026-10-15T18:38 | package | com.facebook.appmanager | installed | removed-user0 | Success
+2026-10-15T18:39 | package | com.facebook.services | installed | removed-user0 | Success
+2026-10-15T18:30 | package | com.facebook.system | installed | removed-user0 | Success
+2026-10-15T18:31 | package | com.booking | installed | removed-user0 | Success
+2026-10-15T18:32 | package | com.block.juggle | installed | removed-user0 | Success
+2026-10-15T18:33 | package | com.mi.global.shop | installed | removed-user0 | Success
+2026-10-15T18:34 | package | com.miui.videoplayer | installed | removed-user0 | Success
+2026-10-15T18:35 | package | com.miui.cleanmaster | installed | removed-user0 | Success
+2026-10-15T18:41 | setting | global/window_animation_scale | 1.0 | 0.5 | ok
+2026-10-15T18:41 | setting | global/transition_animation_scale | 1.0 | 0.5 | ok
+2026-10-15T18:41 | setting | global/animator_duration_scale | 1.0 | 0.5 | ok
+2026-10-15T18:42 | density | wm density | (none, physical 440) | 396 | ok
