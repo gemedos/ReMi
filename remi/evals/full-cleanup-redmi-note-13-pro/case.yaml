@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: full-cleanup-redmi-note-13-pro
+expected_outcome: |
+  Detects garnet/HyperOS, saves backups, proposes only profile packages that are installed (safe+recommended), never touches do-not-touch, applies with pm uninstall -k --user 0, applies the requested personalization after reading old values, and writes remi-apply.sh, remi-restore.sh and RESUMEN.md in a session folder.
