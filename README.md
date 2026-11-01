@@ -1,11 +1,5 @@
 # ReMi
-ReMi: remake your phone. A skill that removes ads and bloatware and customizes your Android using only official adb, no root, no third-party tools. Per-brand profiles (starting with Xiaomi/HyperOS), reversible changes, and confirmation before every command.
-
 **Español** · [English](#english)
-
----
-
-## Qué es ReMi
 
 **ReMi ("rehaz tu móvil")** es una skill para Claude que quita la publicidad y las apps
 basura de tu Android y lo personaliza a tu gusto. Usa solo el `adb` oficial de Google:
